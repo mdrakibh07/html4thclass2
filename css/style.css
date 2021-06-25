@@ -1,0 +1,215 @@
+/*Header section*/
+
+.wrapper1 {
+    background-color: #00ffff;
+    width: 100%;
+    height: 95px;
+    overflow: hidden;
+}
+
+.header {
+    width: 80%;
+    border: 5px solid #003366;
+    min-height: 50px;
+    background-color: #800000;
+    margin-left: 10%;
+}
+
+.header a {
+    background-color: transparent;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: #003300;
+    border-radius: 9px ;
+    float: right;
+    margin: 5px;
+    margin-right: 51px;
+}
+
+.header a:hover {
+    background-color: greenyellow;
+    color: white;
+}
+
+
+/*2 layout articla aria section*/
+
+.wrapper2 {
+    background-color: #blue;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+
+.blog {
+    margin-top: 50px;
+    margin-left: 50px ;
+    float: left;
+    background-color: #006666;
+    min-height: 300px;
+    width: 45%;
+}
+.image {
+    margin-right: 50px ;
+    margin-top: 50px;
+    float: right;
+    background-color: gray;
+    min-height: 300px;
+    width: 45%;
+}
+
+
+/*1 layout articla aria Small container1*/
+
+.container1{
+    background-color: #9494b8;
+    width: 100%;
+    min-height: 300px;
+    margin-top: 30px;
+    clear: both;
+}
+
+
+/*4 layout articla aria section*/
+
+.wrapper3{
+  margin-top: 30px;
+  background-color: #e6e6e6;
+  width: 100%;
+}
+
+.box{
+   background-color:  #ff3300;
+   width: 20%;
+  margin-left: 54px;
+  margin-bottom:20px;
+  float: left;
+  min-height: 350px;
+}
+
+
+/*1 layout articla aria Small container2*/
+
+.container2 {
+    background-color: greenyellow;
+    width: 100%;
+    min-height: 100px;
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+
+/*3 layout section*/
+
+.wrapper4 {
+    width: 100%;
+    min-height: 500px;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.packet1 {
+    width: 56%;
+    float: left;
+    min-height: 385px;
+    margin-top: -15px;
+    margin-left: 1.5%;
+}
+
+.section {
+    background-color: black;
+    min-height: 180px;
+    margin-top: 15px;
+}
+
+.packet2 {
+    width: 40%;
+    float: right;
+    background-color: red;
+    min-height: 375px;
+    margin-right: 1.5%;
+}
+
+.aside{
+    background-color: darkgray;
+}
+
+
+/*8 layout section*/
+
+.wrapper5 {
+    background-color: #ffffff;
+    margin-top: -127px;
+    width: 100%;
+    min-height: 500px;
+    margin-left: 86px;
+    overflow: hidden;
+}
+
+.boxx {
+    float: left;
+    background-color: greenyellow;
+    width: 20%;
+    min-height: 246px;
+    /* margin: 1%; */
+    margin-left: 21px;
+    margin-top: 30px;
+}
+
+
+/*10 layout articla aria section*/
+
+.wrapper6{
+    background-color: black;
+    width: 100%;
+    min-height: 500px;
+    margin-top: 30px;
+}
+
+.containerbox1 {
+    width: 100%;
+    float: left;
+    margin-left: 78px;
+    margin-top: 11px;
+}
+
+.containerbox2 {
+    width: 100%;
+    float: left;
+    margin-left: 78px;
+    margin-top: -6px;
+}
+
+.box-10 {
+    width: 16%;
+    background-color: red;
+    min-height: 210px;
+    float: left;
+    margin: 10px;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+/*footer layout section*/
+
+.wrapper7{
+    background-color:#660033;
+    width: 100%;
+    min-height: 100px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+/*Second page css file about.html*/
+
+.imge1{
+    width: 400px;
+    min-height: 300px;
+}
